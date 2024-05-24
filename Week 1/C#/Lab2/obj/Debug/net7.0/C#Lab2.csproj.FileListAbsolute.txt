@@ -1,0 +1,14 @@
+C:\Users\ABDON\source\repos\C#Lab2\bin\Debug\net7.0\C#Lab2.exe
+C:\Users\ABDON\source\repos\C#Lab2\bin\Debug\net7.0\C#Lab2.deps.json
+C:\Users\ABDON\source\repos\C#Lab2\bin\Debug\net7.0\C#Lab2.runtimeconfig.json
+C:\Users\ABDON\source\repos\C#Lab2\bin\Debug\net7.0\C#Lab2.dll
+C:\Users\ABDON\source\repos\C#Lab2\bin\Debug\net7.0\C#Lab2.pdb
+C:\Users\ABDON\source\repos\C#Lab2\obj\Debug\net7.0\C#Lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABDON\source\repos\C#Lab2\obj\Debug\net7.0\C#Lab2.AssemblyInfoInputs.cache
+C:\Users\ABDON\source\repos\C#Lab2\obj\Debug\net7.0\C#Lab2.AssemblyInfo.cs
+C:\Users\ABDON\source\repos\C#Lab2\obj\Debug\net7.0\C#Lab2.csproj.CoreCompileInputs.cache
+C:\Users\ABDON\source\repos\C#Lab2\obj\Debug\net7.0\C#Lab2.dll
+C:\Users\ABDON\source\repos\C#Lab2\obj\Debug\net7.0\refint\C#Lab2.dll
+C:\Users\ABDON\source\repos\C#Lab2\obj\Debug\net7.0\C#Lab2.pdb
+C:\Users\ABDON\source\repos\C#Lab2\obj\Debug\net7.0\C#Lab2.genruntimeconfig.cache
+C:\Users\ABDON\source\repos\C#Lab2\obj\Debug\net7.0\ref\C#Lab2.dll

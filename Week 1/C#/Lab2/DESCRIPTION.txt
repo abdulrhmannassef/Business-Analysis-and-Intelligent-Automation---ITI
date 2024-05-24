@@ -1,0 +1,19 @@
+FIRST TASK:
+make the user enter two numbers and make him choose the operartion to be done on the two numbers 
+USING:
+- IF statement
+- CASE statement
+
+
+SECOND TASK :
+to check if the number is odd or even.
+
+
+THIRD TASK:
+to check if the number is prime or not.
+
+
+FOURTH TASK :
+- is to loop over an array and get the sum of its elements 
+- get the max number
+- get the min number
